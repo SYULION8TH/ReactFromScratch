@@ -7,6 +7,6 @@
 
 #### 참고
 
--   [set up react app with webpack, webpack-dev-server, babel from scratch](https://medium.com/@imranhsayed/set-up-react-app-with-webpack-webpack-dev-server-and-babel-from-scratch-df398174446d)
+-   [Set up React App with Webpack, Webpack Dev Server and Babel from scratch](https://medium.com/@imranhsayed/set-up-react-app-with-webpack-webpack-dev-server-and-babel-from-scratch-df398174446d)
 -   [Class in Javascript](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Classes)
 -   [webpack document](https://webpack.js.org/configuration/dev-server/#root)
